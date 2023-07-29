@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @KUBA5422
 - 👀 I’m interested in web developemnt(fullstack dev)
 - 🌱 I’m currently learning JS 
-- 📫 How to reach me discord: KUBA5422/KUBA#5422
+- 📫 How to reach me, discord: KUBA5422/KUBA#5422
+
 
 <!---
 KUBA5422/KUBA5422 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
