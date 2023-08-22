@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KUBA5422
-- 👀 I’m interested in web developemnt(fullstack dev)
+- 👀 I’m interested in web developemnt(front-end dev)
 - 🌱 I’m currently learning JS 
 - 📫 How to reach me, discord: KUBA5422/KUBA#5422
 
