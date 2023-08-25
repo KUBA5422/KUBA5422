@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KUBA5422
-- 👀 I’m interested in web developemnt(front-end dev)
+- 👋 Hi, I’m KUBA
 - 🌱 I’m currently learning JS 
-- 📫 How to reach me, discord: KUBA5422/KUBA#5422
+- 📫 How to reach me,
+   --->discord: KUBA5422/KUBA#5422
 
 
 <!---
